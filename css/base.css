@@ -312,6 +312,7 @@ label[for='toggle-all'] {
 	height: 20px;
 	z-index: 1;
 	text-align: center;
+	display: none;
 }
 
 #footer:before {
